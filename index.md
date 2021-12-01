@@ -17,4 +17,4 @@ Post your question in #support channel of the discord server or create a ticket 
 
 
 ###### Support
-If you have any issues regarding following the steps, ping @Someone#0171 in the #support channel of the discord stating your issue and I'll be more than happy to help you fix it :)
+###### If you have any issues regarding following the steps, ping @Someone#0171 in the #support channel of the discord stating your issue and I'll be more than happy to help you fix it :)
